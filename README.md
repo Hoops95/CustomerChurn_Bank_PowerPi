@@ -5,7 +5,6 @@ Churn prevention allows companies to develop loyalty programs and retention camp
 <h2>Customer Churn Dashboard 🧐</h2>
 <img src="Bank.PNG">
 
-<h2>Churn Percentage by Year & Month 📌</h2>
-<img src="Churn%.PNG">
+
 
  
